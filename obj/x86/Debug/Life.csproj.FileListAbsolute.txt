@@ -1,0 +1,11 @@
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\bin\Debug\Life.exe
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\bin\Debug\Life.pdb
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\Life.Form1.resources
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\Life.Properties.Resources.resources
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\Life.exe
+c:\users\niks\documents\visual studio 2010\Projects\Life\Life\obj\x86\Debug\Life.pdb
+C:\Users\Niks\Documents\Visual Studio 2010\Projects\Life\Life\bin\Debug\Camalon.ColorPicker.dll
+C:\Users\Niks\Documents\Visual Studio 2010\Projects\Life\Life\bin\Debug\Camalon.Drawing.dll
